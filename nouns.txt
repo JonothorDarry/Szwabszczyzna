@@ -1867,7 +1867,7 @@
 1867. Ink	Die Tinte	(usually uncountable)
 1868. Plot	Die Handlung	Die Handlungen
 1869. Rent	Die Miete	Die Mieten
-1870. Mule	Die Maultier	Die Maultiere
+1870. Mule	Das Maultier	Die Maultiere ###Corrected from Die
 1871. Arch	Der Bogen	Die Bögen
 1872. Environment	Die Umwelt	Die Umwelten
 1873. Frown	Die Stirnrunzeln	(plural noun)
