@@ -355,7 +355,7 @@
 355. Beach	Der Strand	Die Strände
 356. President	Der Präsident	Die Präsidenten
 357. Shape	Die Form	Die Formen
-358. Smoke	Der Rauch	Die Rauch
+358. Smoke	Der Rauch	Die Rauche ###Corrected the plural from "Rauch"
 359. Wheel	Das Rad	Die Räder
 360. Silver	Das Silber	-
 361. Roof	Das Dach	Die Dächer
@@ -1361,7 +1361,7 @@
 1361. Gap	Die Lücke	Die Lücken
 1362. Pet	Das Haustier	Die Haustiere
 1363. Education	Die Bildung	- ### From Das
-1364. Shopping	Die Einkauf	Die Einkäufe
+1364. Shopping	Der Einkauf	Die Einkäufe ###Corrected the singular from "Die"
 1365. Shed	Der Schuppen	Die Schuppen
 1366. Agreement	Die Vereinbarung	Die Vereinbarungen
 1367. Soil	Der Boden	- 
@@ -1886,7 +1886,7 @@
 1886. Civilization	Die Zivilisation	Die Zivilisationen
 1887. Concept	Das Konzept	Die Konzepte
 1888. Lamb	Das Lamm	Die Lämmer
-1889. Stride	Die Schritt	Die Schritte
+1889. Stride	Der Schritt	Die Schritte ###Corrected singular from die
 1890. Cuff	Das Manschette	Die Manschetten
 1891. Virgin	Die Jungfrau	Die Jungfrauen
 1892. Squirrel	Das Eichhörnchen	Die Eichhörnchen
@@ -2815,7 +2815,7 @@
 2816. Canoe	Das Kanu	Die Kanus
 2817. Recipe	Das Rezept	Die Rezepte
 2818. Hamburger	Der Hamburger	Die Hamburger
-2819. Eave	Der Trauf	Die Traube
+2819. Eave	Der Trauf	Die Traufe ###Corrected plural from Traube
 2820. Barber	Der Friseur	Die Friseure
 2821. Passing	Das Vorbeigehen	Die Vorbeigehen
 2822. Betrayal	Der Verrat	Die Verrat
