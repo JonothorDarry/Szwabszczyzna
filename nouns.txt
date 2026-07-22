@@ -102,7 +102,7 @@
 101. Step	Der Schritt	Die Schritte
 102. Blood	Das Blut	-
 103. Fact	Die Tatsache	Die Tatsachen
-104. Breath	Der Atem	- ###Nonsense: die Atemzüge is a plural for der Atemzug; corrected to -
+104. Breath	Der Atem	- ###Changed the plural (die Atemzüge) to -, as it expresses something quite different
 105. Lip	Die Lippe	Die Lippen
 106. Sun	Die Sonne	Die Sonnen
 107. Building	Das Gebäude	Die Gebäude
@@ -426,7 +426,7 @@
 426. Effort	Der Aufwand	Die Aufwände
 427. East	Der Osten	-
 428. Agent	Der Agent	Die Agenten
-429. Future	Die Zukunft	Die Zukunft
+429. Future	Die Zukunft	Die Zukünfte ###Corrected plural from die Zukunft
 430. Pant	Die Hose	Die Hosen
 431. Leather	Das Leder	-
 432. Flight	Der Flug	Die Flüge
@@ -482,7 +482,7 @@
 482. Cover	Die Abdeckung	Die Abdeckungen
 483. Past	Die Vergangenheit	-
 484. Farm	Die Farm	Die Farmen
-485. Lap	Der Schoß	Die Schoß
+485. Lap	Der Schoss	Die Schöße ###Corrected the singular from der Schoß, and the plural from die Schoß
 486. Band	Die Band	Die Bands
 487. Lawyer	Der Anwalt	Die Anwälte
 488. Magazine	Das Magazin	Die Magazine
@@ -980,7 +980,7 @@
 980. Excitement	Die Aufregung	- 
 981. Lobby	Die Lobby	Die Lobbys 
 982. Boyfriend	Der Freund	Die Freunde 
-983. Fur	Der Pelz	Die Felle 
+983. Fur	Der Pelz	Die Pelze  ###Corrected plural from die Felle
 984. Range	Die Bandbreite	Die Bandbreiten 
 985. Dick	Der Schwanz	Die Schwänze 
 986. Code	Der Code	Die Codes 
@@ -1220,7 +1220,7 @@
 1220. Butt	Der Hintern	Die Hintern
 1221. Confusion	Die Verwirrung	- 
 1222. Understanding	Das Verständnis	- 
-1223. Trade	Der Handel	Die Handel
+1223. Trade	Der Handel	Die Händel ###Corrected plural from Handel
 1224. Refrigerator	Der Kühlschrank	Die Kühlschränke
 1225. Mister	Der Herr	Die Herren
 1226. Flashlight	Die Taschenlampe	Die Taschenlampen
@@ -1282,7 +1282,7 @@
 1282. Reply	Die Antwort	Die Antworten
 1283. Rumor	Das Gerücht	Die Gerüchte
 1284. Gravity	Die Schwerkraft	- 
-1285. Shelter	Der Schutz	Die Schutz ###Corrected from Das
+1285. Shelter	Der Schutz	Die Schutze ###Corrected from Das, plural from die Schutz
 1286. Adventure	Das Abenteuer	Die Abenteuer
 1287. Lion	Der Löwe	Die Löwen
 1288. Spine	Die Wirbelsäule	Die Wirbelsäulen
@@ -1365,7 +1365,7 @@
 1365. Shed	Der Schuppen	Die Schuppen
 1366. Agreement	Die Vereinbarung	Die Vereinbarungen
 1367. Soil	Der Boden	- 
-1368. Duke	Der Herzog	Die Herzog
+1368. Duke	Der Herzog	Die Herzöge ###Corrected plural from "die Herzog
 1369. Shotgun	Das Schrotflinte	Die Schrotflinten
 1370. Notion	Die Idee	Die Ideen
 1371. Rear	Das Heck	- 
@@ -1470,7 +1470,7 @@
 1470. Minister	Der Minister	Die Minister
 1471. Entry	Der Eintrag	Die Einträge
 1472. Thief	Der Dieb	Die Diebe
-1473. Briefcase	Der Aktenkoffer	Die Aktentaschen
+1473. Briefcase	Der Aktenkoffer	Die Aktenkoffer ###Corrected plural from Aktentaschen
 1474. Pity	Das Mitleid	- 
 1475. Fingertip	Die Fingerspitze	Die Fingerspitzen
 1476. Navy	Die Marine	Die Marinen
@@ -1557,7 +1557,7 @@
 1557. Burst	Der Ausbruch	Die Ausbrüche
 1558. Peak	Der Gipfel	Die Gipfel
 1559. Drum	Die Trommel	Die Trommeln
-1560. Focus	Der Fokus	Die Foki
+1560. Focus	Der Fokus	Die Fokusse ###Corrected plural from die Foki
 1561. Frog	Der Frosch	Die Frösche
 1562. Benefit	Der Nutzen	Die Nutzen
 1563. Remark	Die Bemerkung	Die Bemerkungen
@@ -1689,7 +1689,7 @@
 1689. Population	Die Bevölkerung	(usually uncountable)
 1690. Affection	Die Zuneigung	(usually uncountable)
 1691. Religion	Die Religion	Die Religionen
-1692. Singer	Der Sänger	Die Sängerinnen
+1692. Singer	Der Sänger	Die Sänger ###Corrected plural from die Sängerinnen
 1693. Attendant	Der Bedienstete	Die Bediensteten
 1694. Illusion	Die Illusion	Die Illusionen
 1695. Link	Der Link	Die Links
@@ -1808,7 +1808,7 @@
 1808. Brand	Die Marke	Die Marken
 1809. Organ	Das Organ	Die Organe
 1810. Butterfly	Der Schmetterling	Die Schmetterlinge
-1811. Empire	Das Imperium	Die Reiche
+1811. Empire	Das Imperium	Die Imperien ###Corrected from die Reiche
 1812. Profile	Das Profil	Die Profile
 1813. Liberty	Die Freiheit	Die Freiheiten
 1814. Disbelief	Der Unglaube	(usually uncountable)
@@ -2172,7 +2172,7 @@
 2172. Baker	Der Bäcker	Die Bäcker
 2173. Virus	Das Virus	Die Viren
 2174. Suffering	Das Leiden	(usually uncountable)
-2175. Slot	Der Schlitz	Die Schlitz
+2175. Slot	Der Schlitz	Die Schlitze ###Corrected plural from die Schlitz
 2176. Folder	Der Ordner	Die Ordner
 2177. Confession	Das Geständnis	Die Geständnisse
 2178. Porter	Der Türsteher	Die Türsteher
@@ -2399,7 +2399,7 @@
 2399. Clump	Der Klumpen	Die Klumpen
 2400. Offense	Die Straftat	Die Straftaten
 2401. Introduction	Die Einführung	Die Einführungen
-2402. Butler	Der Butler	Die Diener
+2402. Butler	Der Butler	Die Butler ###Corrected plural from die Diener
 2403. Cough	Der Husten	Die Husten
 2404. Granite	Der Granit	(usually uncountable)
 2405. Ambassador	Der Botschafter	Die Botschafter
@@ -2450,7 +2450,7 @@
 2450. Income	Das Einkommen	Die Einkommen
 2451. Myth	Der Mythos	Die Mythen
 2452. Shutter	Der Verschluss	Die Verschlüsse
-2453. Raft	Das Floß	Die Floße
+2453. Raft	Das Floß	Die Flöße ###Corrected plural from die Floße
 2454. Physician	Der Arzt	Die Ärzte
 2455. Ambition	Der Ehrgeiz	(usually uncountable)
 2456. Camel	Das Kamel	Die Kamele
@@ -2612,7 +2612,7 @@
 2612. Thorn	Der Dorn	Die Dornen
 2613. Hide	Das Versteck	Die Verstecke
 2614. Sausage	Die Wurst	Die Würste
-2615. Dig	Der Lupfer	Die Lupfen
+2615. Dig	Der Lupfer	Die Lupfer ### Corrected plural from die Lupfen
 2616. Tan	Die Bräune	Die Bräunen
 2617. Loan	Das Darlehen	Die Darlehen
 2618. Spike	Der Stachel	Die Stacheln
@@ -2653,10 +2653,10 @@
 2653. Sunrise	Der Sonnenaufgang	Die Sonnenaufgänge
 2654. Exhaustion	Die Erschöpfung	(usually uncountable)
 2655. Cubicle	Die Zelle	Die Zellen
-2656. Double	Das Doppel	Die Dopple
+2656. Double	Das Doppel	Die Doppel ###Corrected plural from die Dopple
 2657. Perimeter	Der Umfang	Die Umfänge
 2658. Comb	Der Kamm	Die Kämme
-2659. Finish	Das Finish	Die Finish
+2659. Finish	Das Finish	Die Finishs ###Corrected plural from die Finish
 2660. Purchase	Der Kauf	Die Käufe
 2661. Interval	Das Intervall	Die Intervalle
 2662. Splash	Das Spritzen	Die Spritzen
@@ -2773,7 +2773,7 @@
 2773. Ignorance	Die Unwissenheit	(usually uncountable)
 2774. Budget	Der Haushalt	Die Haushalte
 2775. Aircraft	Das Flugzeug	Die Flugzeuge
-2776. Corps	Das Corps	Die Cores
+2776. Corps	Das Corps	Die Corps ###Corrected plural from "die Cores"
 2777. Loaf	Das Laib	Die Laibe
 2778. Extension	Die Erweiterung	Die Erweiterungen
 2779. Freeway	Der Autobahn	Die Autobahnen
@@ -2897,7 +2897,7 @@
 2898. Granddaughter	Die Enkelin	Die Enkelinnen
 2899. Symptom	Das Symptom	Die Symptome
 2900. Scenario	Das Szenario	Die Szenarien
-2901. Riot	Der Aufruhr	Die Aufruhr
+2901. Riot	Der Aufruhr	Die Aufruhre ###Corrected the plural from die Aufruhr
 2902. Timing	Das Timing	Die Timingen
 2903. Burger	Der Burger	Die Burger
 2904. Plus	Das Plus	(usually uncountable)
@@ -2907,7 +2907,7 @@
 2908. Accusation	Die Anschuldigung	Die Anschuldigungen
 2909. Manor	Das Herrenhaus	Die Herrenhäuser
 2910. Shuffling	Das Mischen	Die Mischungen
-2911. Dolphin	Der Delphin	Die Delfine
+2911. Dolphin	Der Delfin	Die Delfine ###Corrected the singular fron der Delphin
 2912. Kettle	Der Wasserkocher	Die Wasserkocher
 2913. Trooper	Der Soldat	Die Soldaten
 2914. Salvation	Die Rettung	Die Rettungen
