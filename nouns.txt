@@ -2485,7 +2485,7 @@
 2485. Maintenance	Die Wartung	(usually uncountable)
 2486. Sweetie	Der Schatz	Die Schätze
 2487. Orchard	Der Obstgarten	Die Obstgärten
-2488. Cot	Der Kinderbett	Die Kinderbetten
+2488. Cot	Das Kinderbett	Die Kinderbetten ###Corrected singular from Das
 2489. Pouch	Die Tasche	Die Taschen
 2490. Lighter	Das Feuerzeug	Die Feuerzeuge
 2491. Kitty	Das Kätzchen	Die Kätzchen
